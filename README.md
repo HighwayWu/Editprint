@@ -50,7 +50,7 @@ For prepare the train/test files:
 python preprocess.py
 ```
 
-**Note: The pretrained Editprint and demo data can be downloaded from [Google Drive](https://www.google.com) or [Baidu Pan](https://www.baidu.com).**
+**Note: The pretrained Editprint and demo data can be downloaded from [Google Drive](https://drive.google.com/file/d/1X4nF0kVMKuGKdryV2VvW3v-67IwL5SVR/view?usp=sharing) or [Baidu Pan](https://pan.baidu.com/s/1kuKj99TcXMOTcdmq9P3-tg?pwd=vuu8).**
 
 
 ## Citation
@@ -64,4 +64,5 @@ If you use this code for your research, please cite the reference:
   year={2026},
 }
 ```
+
 
